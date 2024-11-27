@@ -1,2 +1,2 @@
 # hello-github
-Este repositório é para praticar o fluxo do Github 
+Repositorio para atividade de iniciaçao no github 
